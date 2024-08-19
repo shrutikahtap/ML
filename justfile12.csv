@@ -1,0 +1,251 @@
+Name,Age,Gender,Salary,Address,Country,Position,Garbage
+Hari,,F,5400,Unknown,India,Clerk,N/A
+John,Twenty-five,M,5000,123 Main St,USA,Intern,?
+John,Unknown,M,4500,,USA,Intern,
+Bob,Twenty-five,F,12000,123 Main St,Canada,Analyst,Unknown
+Bob,Unknown,F,12000,Raj Marg,UK,Clerk,Unknown
+Ram,Unknown,F,5000,123 Main St,India,Intern,
+Bob,40,F,12000,,India,Manager,?
+John,35,M,4500,123 Main St,Canada,Intern,
+Hari,28,M,12000,Unknown,India,Clerk,Unknown
+Sam,30,F,6500,222 Pine St,India,Manager,N/A
+John,,F,5000,123 Main St,Canada,Clerk,N/A
+Hari,28,M,4500,Raj Marg,India,Intern,Unknown
+Hari,35,M,5000,Raj Marg,Australia,Intern,
+John,30,M,5000,Raj Marg,India,Developer,
+Ram,Twenty-five,M,5000,Raj Marg,Australia,Developer,
+Ram,40,M,5400,Unknown,Australia,Analyst,?
+Ram,25,M,5500,Raj Marg,Canada,Analyst,?
+Hari,,M,5400,Raj Marg,USA,Intern,N/A
+Ram,,M,5000,456 Eln St,Canada,Analyst,Unknown
+Bob,40,F,12000,222 Pine St,Australia,Intern,?
+John,25,F,5400,Unknown,UK,Intern,?
+Mark,Unknown,F,6500,Raj Marg,India,Clerk,N/A
+Mark,40,M,4500,Unknown,UK,Analyst,Unknown
+Ram,Unknown,M,12000,222 Pine St,UK,Manager,Unknown
+Ram,Twenty-five,F,4500,456 Eln St,Canada,Intern,
+Hari,Unknown,M,6500,123 Main St,UK,Developer,Unknown
+Bob,40,M,5000,222 Pine St,India,Developer,
+Ram,28,F,4500,Unknown,USA,Analyst,N/A
+Bob,,F,5500,123 Main St,UK,Manager,
+John,28,F,5400,Raj Marg,India,Developer,N/A
+Sam,30,M,5000,222 Pine St,India,Analyst,Unknown
+Sam,Unknown,F,6500,222 Pine St,Canada,Clerk,N/A
+Bob,30,M,12000,Unknown,USA,Manager,N/A
+Bob,25,F,4500,123 Main St,UK,Intern,N/A
+Bob,Unknown,F,5400,123 Main St,UK,Developer,N/A
+Mark,25,M,5000,,USA,Manager,?
+Hari,Unknown,F,4500,456 Eln St,Australia,Analyst,N/A
+Hari,28,M,4500,222 Pine St,Canada,Clerk,?
+Hari,28,F,5400,Raj Marg,UK,Manager,N/A
+John,28,M,5500,,India,Developer,N/A
+Mark,35,M,4500,,UK,Developer,
+John,28,F,5000,222 Pine St,USA,Manager,?
+Mark,25,F,6500,,USA,Analyst,?
+John,40,M,5500,,India,Analyst,
+Mark,35,M,6500,Unknown,UK,Intern,
+Sam,25,F,6500,Raj Marg,India,Clerk,N/A
+Hari,35,F,5400,,Canada,Manager,
+Hari,35,M,6500,123 Main St,Australia,Clerk,
+John,Twenty-five,M,4500,456 Eln St,India,Clerk,N/A
+Bob,35,F,6500,,Australia,Analyst,Unknown
+Ram,25,M,5000,Raj Marg,Canada,Analyst,
+Bob,35,F,5500,456 Eln St,Australia,Intern,Unknown
+Mark,25,M,5400,Raj Marg,USA,Analyst,N/A
+Sam,25,M,5400,222 Pine St,USA,Clerk,Unknown
+Hari,25,M,6500,Raj Marg,India,Analyst,?
+Mark,Twenty-five,M,5500,Unknown,Canada,Clerk,
+John,Unknown,F,5400,222 Pine St,India,Developer,
+Hari,35,F,4500,,UK,Clerk,N/A
+John,Unknown,F,5500,,Australia,Developer,
+John,30,M,5500,Unknown,USA,Developer,Unknown
+Mark,30,M,5500,123 Main St,Australia,Intern,N/A
+Hari,30,F,5400,456 Eln St,Australia,Clerk,Unknown
+Ram,30,M,12000,Raj Marg,Australia,Intern,Unknown
+Mark,30,F,4500,222 Pine St,Canada,Analyst,
+Mark,35,F,6500,456 Eln St,UK,Analyst,N/A
+Hari,25,F,4500,456 Eln St,UK,Developer,
+John,Unknown,M,4500,Raj Marg,USA,Intern,Unknown
+Bob,35,M,12000,456 Eln St,Canada,Manager,?
+Mark,30,M,4500,Raj Marg,UK,Developer,N/A
+Sam,25,M,5000,,UK,Intern,?
+Bob,40,M,4500,456 Eln St,UK,Developer,
+John,Twenty-five,F,5400,,India,Developer,N/A
+Hari,,M,6500,,Canada,Manager,Unknown
+Ram,28,F,4500,Raj Marg,India,Developer,
+John,28,M,12000,,Australia,Analyst,Unknown
+Sam,40,F,6500,,Australia,Manager,?
+Hari,35,M,5000,Raj Marg,UK,Clerk,
+Hari,Unknown,F,5000,456 Eln St,USA,Developer,
+Sam,35,M,5500,Raj Marg,Canada,Developer,
+Bob,25,F,5400,222 Pine St,USA,Intern,
+Bob,,F,5000,222 Pine St,Canada,Intern,N/A
+Hari,Unknown,M,4500,Raj Marg,Canada,Developer,?
+Hari,,F,4500,Unknown,Canada,Manager,Unknown
+Bob,,M,5500,222 Pine St,India,Developer,?
+Bob,Unknown,M,5500,123 Main St,Australia,Intern,N/A
+Sam,35,M,5500,Unknown,Canada,Manager,N/A
+Mark,35,M,5400,123 Main St,UK,Clerk,N/A
+Hari,Unknown,F,6500,,Canada,Analyst,N/A
+Sam,28,F,5400,222 Pine St,Canada,Manager,
+Sam,,F,5500,456 Eln St,Australia,Analyst,
+Hari,40,F,5000,456 Eln St,Australia,Intern,
+Mark,40,F,4500,Raj Marg,Australia,Developer,
+Bob,,M,4500,,Canada,Developer,N/A
+Ram,Twenty-five,F,5400,Unknown,USA,Analyst,?
+Mark,30,M,6500,456 Eln St,Canada,Intern,Unknown
+Hari,Unknown,M,5400,,UK,Developer,
+Ram,25,M,4500,,UK,Clerk,
+Sam,28,F,5500,456 Eln St,USA,Manager,Unknown
+John,35,F,4500,222 Pine St,India,Clerk,N/A
+Mark,25,M,4500,,Australia,Manager,N/A
+John,35,M,5000,,India,Analyst,?
+Bob,,M,5400,Raj Marg,India,Developer,
+Sam,Twenty-five,F,5400,222 Pine St,India,Intern,N/A
+Ram,35,F,5500,,USA,Analyst,N/A
+John,Twenty-five,M,5400,Raj Marg,India,Analyst,?
+Bob,35,M,4500,Raj Marg,UK,Manager,N/A
+Mark,,F,12000,123 Main St,UK,Intern,Unknown
+Ram,Unknown,M,4500,,Australia,Analyst,
+Mark,40,F,5000,Unknown,India,Clerk,
+John,35,M,5000,,India,Analyst,N/A
+John,25,M,12000,Unknown,UK,Intern,
+Bob,35,F,4500,222 Pine St,Canada,Intern,
+Bob,35,M,5400,222 Pine St,USA,Developer,
+Mark,25,M,5500,123 Main St,Australia,Intern,
+Bob,Unknown,M,5000,222 Pine St,Australia,Clerk,
+Sam,25,F,12000,Raj Marg,USA,Clerk,
+Bob,35,M,5400,Raj Marg,Canada,Manager,
+Hari,Unknown,M,6500,Raj Marg,India,Analyst,Unknown
+Bob,28,F,5500,456 Eln St,India,Intern,
+Hari,Twenty-five,F,6500,123 Main St,India,Manager,Unknown
+John,28,M,12000,123 Main St,UK,Intern,
+John,30,M,4500,Unknown,UK,Intern,N/A
+Bob,30,M,12000,Unknown,Canada,Manager,
+Sam,Unknown,F,6500,Unknown,Australia,Clerk,
+John,Twenty-five,F,6500,Unknown,Canada,Intern,Unknown
+Hari,,M,6500,Unknown,USA,Manager,
+Mark,40,F,6500,123 Main St,Canada,Developer,
+Bob,,M,4500,222 Pine St,UK,Clerk,?
+Mark,Twenty-five,F,4500,456 Eln St,UK,Manager,?
+Sam,Twenty-five,F,5400,Unknown,UK,Analyst,Unknown
+Hari,28,M,12000,,Canada,Analyst,
+Sam,25,F,12000,Unknown,USA,Intern,
+Ram,25,F,6500,Raj Marg,USA,Developer,
+Mark,Twenty-five,M,5000,456 Eln St,India,Manager,
+Mark,30,F,4500,123 Main St,India,Manager,N/A
+Sam,35,M,5000,,Australia,Manager,
+Bob,30,M,12000,,Canada,Intern,
+Sam,28,M,5000,,USA,Intern,Unknown
+Sam,Twenty-five,M,5500,123 Main St,USA,Analyst,
+Hari,35,F,5400,222 Pine St,USA,Manager,
+Bob,30,F,4500,123 Main St,Canada,Developer,N/A
+Ram,Unknown,M,5000,456 Eln St,UK,Intern,Unknown
+Bob,Unknown,M,12000,Raj Marg,India,Analyst,
+Sam,Twenty-five,M,5400,123 Main St,India,Manager,?
+John,Twenty-five,F,5400,123 Main St,India,Clerk,Unknown
+John,,M,5400,123 Main St,Australia,Manager,
+John,Unknown,M,6500,222 Pine St,Canada,Manager,
+Mark,Unknown,F,5000,123 Main St,Australia,Intern,Unknown
+John,,F,5400,456 Eln St,India,Developer,?
+Sam,,F,5500,123 Main St,UK,Intern,?
+Ram,,F,5400,222 Pine St,Canada,Intern,N/A
+Sam,Twenty-five,F,5500,456 Eln St,USA,Intern,
+John,,M,5000,456 Eln St,USA,Intern,
+Bob,30,F,4500,Unknown,USA,Intern,?
+John,25,M,5000,Unknown,USA,Manager,
+Ram,25,F,5500,,Canada,Intern,
+Mark,25,F,5500,,Canada,Developer,
+Bob,40,F,6500,Raj Marg,USA,Analyst,
+Ram,,M,12000,,Canada,Clerk,N/A
+Mark,25,M,4500,222 Pine St,Australia,Developer,Unknown
+Mark,40,M,6500,Raj Marg,UK,Intern,Unknown
+Mark,Unknown,F,5400,,India,Intern,Unknown
+Bob,Unknown,F,4500,,UK,Clerk,
+Ram,35,M,12000,Unknown,Australia,Clerk,?
+John,Twenty-five,F,5500,456 Eln St,Australia,Intern,?
+Bob,Twenty-five,M,5400,222 Pine St,Canada,Clerk,
+Mark,,M,5500,,India,Analyst,
+Sam,28,M,4500,Raj Marg,USA,Analyst,Unknown
+Bob,Unknown,M,4500,Raj Marg,India,Clerk,N/A
+Sam,35,F,5500,222 Pine St,Australia,Analyst,
+John,,M,5500,,Canada,Manager,N/A
+Mark,35,F,6500,Raj Marg,UK,Intern,Unknown
+John,,F,5400,456 Eln St,USA,Clerk,
+Bob,25,F,5400,456 Eln St,UK,Analyst,
+Hari,25,M,4500,222 Pine St,India,Manager,?
+Mark,25,M,5400,456 Eln St,India,Developer,?
+Ram,35,M,5000,Raj Marg,UK,Clerk,Unknown
+Mark,40,F,4500,Raj Marg,UK,Analyst,?
+Ram,,M,6500,Raj Marg,India,Manager,
+Mark,35,F,12000,456 Eln St,USA,Developer,N/A
+John,25,F,12000,123 Main St,USA,Clerk,N/A
+Hari,25,M,4500,222 Pine St,India,Developer,Unknown
+John,40,F,4500,123 Main St,Canada,Manager,
+Bob,25,F,5000,Raj Marg,Canada,Analyst,
+Ram,28,M,6500,456 Eln St,India,Intern,
+Hari,40,M,5000,456 Eln St,India,Intern,?
+Hari,28,F,5000,222 Pine St,USA,Clerk,N/A
+Hari,,F,4500,222 Pine St,Australia,Developer,
+Ram,40,F,5500,Unknown,India,Analyst,
+Mark,30,M,5400,Raj Marg,Australia,Clerk,?
+Mark,Twenty-five,F,5500,Unknown,UK,Developer,N/A
+Mark,28,M,6500,Unknown,UK,Developer,?
+Hari,25,F,12000,Unknown,UK,Clerk,?
+Ram,40,M,5500,Raj Marg,Australia,Analyst,
+Bob,Twenty-five,F,5000,,USA,Intern,?
+Ram,Unknown,F,6500,,UK,Manager,Unknown
+Mark,35,F,12000,222 Pine St,India,Manager,?
+Sam,Twenty-five,M,4500,222 Pine St,India,Clerk,
+Bob,35,F,5400,Raj Marg,USA,Developer,N/A
+Sam,Twenty-five,F,4500,123 Main St,India,Clerk,N/A
+Hari,35,F,5000,222 Pine St,UK,Manager,
+John,40,F,5400,222 Pine St,UK,Developer,
+Mark,28,F,5000,Unknown,Canada,Developer,N/A
+Bob,35,M,5400,Raj Marg,USA,Intern,Unknown
+Mark,,M,4500,,USA,Clerk,
+Bob,Unknown,M,12000,,USA,Developer,?
+Ram,30,M,12000,Unknown,Australia,Clerk,?
+John,25,M,5000,222 Pine St,India,Manager,N/A
+Sam,28,M,5000,123 Main St,Canada,Clerk,Unknown
+Sam,35,F,5000,456 Eln St,Australia,Developer,
+Mark,28,M,5400,222 Pine St,UK,Clerk,
+Bob,35,M,5500,Raj Marg,UK,Developer,Unknown
+Ram,25,M,5400,123 Main St,Australia,Manager,
+Ram,30,M,12000,222 Pine St,UK,Manager,N/A
+Ram,40,F,12000,123 Main St,India,Manager,
+Bob,30,M,5400,Raj Marg,Canada,Intern,
+John,28,M,6500,,Australia,Clerk,?
+Hari,Twenty-five,F,5500,456 Eln St,Australia,Intern,
+Ram,35,F,5000,222 Pine St,UK,Analyst,
+Hari,40,M,5400,456 Eln St,UK,Analyst,
+Ram,35,F,5000,Unknown,Australia,Clerk,N/A
+Bob,Unknown,F,5400,Unknown,Canada,Intern,
+John,40,F,6500,456 Eln St,UK,Intern,
+Hari,25,F,5400,123 Main St,Australia,Analyst,?
+Ram,Twenty-five,F,12000,Unknown,India,Clerk,N/A
+Sam,Unknown,M,4500,,USA,Analyst,
+Sam,Unknown,M,5400,456 Eln St,India,Manager,?
+Sam,35,F,5500,,Australia,Intern,
+Bob,Twenty-five,F,5400,222 Pine St,Canada,Clerk,N/A
+Ram,28,M,5000,456 Eln St,India,Intern,
+Sam,,F,5000,Raj Marg,Australia,Intern,Unknown
+Hari,,F,12000,Raj Marg,UK,Manager,
+John,35,M,12000,,India,Developer,N/A
+John,30,F,4500,,Australia,Analyst,Unknown
+Bob,35,F,5400,123 Main St,India,Manager,
+Ram,Twenty-five,M,12000,456 Eln St,Canada,Clerk,
+Hari,25,M,6500,,USA,Clerk,N/A
+Bob,Twenty-five,F,6500,Raj Marg,USA,Analyst,
+John,28,F,5400,123 Main St,Canada,Intern,N/A
+Mark,40,M,12000,222 Pine St,USA,Manager,
+Hari,Twenty-five,F,6500,456 Eln St,India,Manager,Unknown
+Mark,30,F,5000,Raj Marg,Canada,Clerk,Unknown
+Sam,30,M,5400,123 Main St,Canada,Clerk,Unknown
+Sam,Unknown,F,4500,456 Eln St,USA,Clerk,
+Sam,35,M,5400,456 Eln St,Canada,Developer,
+John,35,F,5000,222 Pine St,India,Intern,?
+Bob,40,F,12000,,UK,Manager,
+Sam,35,F,4500,Unknown,UK,Analyst,?
+John,Twenty-five,M,5500,,UK,Developer,N/A
+Mark,35,F,6500,123 Main St,Australia,Clerk,Unknown
